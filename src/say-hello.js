@@ -10,5 +10,6 @@ const $ = require('jquery');
 // module.exports = {sayHello};
 
 
-const changeColor = () => $("p").css("color", "blue");
-module.exports = {changeColor};
+// const changeColor = () => $("p").css("color", "blue");
+// module.exports = {changeColor};
+
